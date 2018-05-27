@@ -1,0 +1,13 @@
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Lucida Grande", "Arial", "Hiragino Sans GB", "Microsoft Yahei", "WenQuanYi Micro Hei", "sans-serif";
+  font-weight: normal;
+  padding-top: 50px;
+}
+
+a:hover {
+  color: snow;
+}
+
+a:visited {
+  text-decoration: none;
+}
